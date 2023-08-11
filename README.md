@@ -1,5 +1,8 @@
 # `Logical-Redstone-Reloaded` : [`Playlist`](https://www.youtube.com/playlist?list=PL5LiOvrbVo8keeEWRZVaHfprU4zQTCsV4)
 
+- [Minecraft but it's BCD to 7 Segment Decoder with Redstone](https://www.youtube.com/watch?v=KbbCd0wuyX0)
+- [Minecraft but creating circuits with Redstone](https://www.youtube.com/watch?v=I0IkYLYeTW8)
+
 <br>
 
     ✨ Half Adder
