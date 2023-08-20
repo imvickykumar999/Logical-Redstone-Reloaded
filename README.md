@@ -1,5 +1,9 @@
 # `Logical-Redstone-Reloaded` : [`Playlist`](https://www.youtube.com/playlist?list=PL5LiOvrbVo8keeEWRZVaHfprU4zQTCsV4)
 
+<a href="https://www.planetminecraft.com/project/redstone-circuits-6024948" title="Redstone Circuits Minecraft Map"><br /><img src="https://static.planetminecraft.com/files/image/minecraft/project/2023/948/17052233-redstonehalfadder_l.jpg" alt="Redstone Circuits" border="0"/><br/>Redstone Circuits</a> by <a href="https://www.planetminecraft.com/member/imvickykumar999/" title="imvickykumar999 Profile">imvickykumar999</a>
+
+---------------------------
+
 - [Minecraft but it's BCD to 7 Segment Decoder with Redstone](https://www.youtube.com/watch?v=KbbCd0wuyX0)
 - [Minecraft but creating circuits with Redstone](https://www.youtube.com/watch?v=I0IkYLYeTW8)
 
